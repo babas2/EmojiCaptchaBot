@@ -1,8 +1,8 @@
-API_ID = 123456  # Insert your API ID here
-API_HASH = ""  # Insert your API Hash here
+API_ID = 1225523  # Insert your API ID here
+API_HASH = "ec0ae6e668e4eaa669c536acf13c9f59"  # Insert your API Hash here
 
-BOT_TOKEN = ""  # Insert your bot token here
-BOT_USERNAME = ""  # Insert your bot's username here
+BOT_TOKEN = "https://github.com/babas2/EmojiCaptchaBot"  # Insert your bot token here
+BOT_USERNAME = "EmojiCaptchaRoBot"  # Insert your bot's username here
 
 SESSION_NAME = "session"
 
